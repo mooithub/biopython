@@ -1,2 +1,1 @@
-aaaa
-test
+bio python 연습 중~~
